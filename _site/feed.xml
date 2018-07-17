@@ -6,9 +6,30 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jul 2018 19:55:07 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Jul 2018 19:55:07 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Jul 2018 20:32:43 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Jul 2018 20:32:43 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Competing at CCDC Regionals</title>
+        <description>&lt;p&gt;Our University of Arkansas CCDC team qualified for the SWCCDC regionals competiton&lt;/p&gt;
+
+&lt;amp-img width=&quot;800&quot; height=&quot;587&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/ccdcregionals.png&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;This was the second year our team competed in the CCDC (Collegiate Cyber Defense competition). Last year we had about half a team and no practice and got roasted. This year we have the opportunity to get compete again, but in Tulsa, OK at regionals!&lt;/p&gt;
+
+&lt;p&gt;Last year’s CCDC qualifier was used as a learning opportunity. We had never competed before and nobody at our university had knowledge of the types of challenges we would face. During the competition, we took notes over the types of challenges, tools we would need in the future, how the team communicated, and useful roles to recruit for next time.&lt;/p&gt;
+
+&lt;p&gt;This year we built several labs to get everyone familiar with linux, networking, firewalls, VMWare ESXi (this was a big one), and common services like web and ftp servers. We divided our team into roles based on Linux, Windows, business injects, and one person to communicate between all of the teams. We also did a trial run, where we overloaded the team with injects and took notes over where everything broke down, and what people’s strengths and weaknesses were. Then we went to the whiteboard and came up with our roles, communication methods, steps to take when the competition starts, and how to pass tasks between teams.&lt;/p&gt;
+
+&lt;p&gt;We would use the white board to keep track of which VMs people were working on to prevent any conflicts and properly assign new technical injects. For business injects, one person on the business inject team would take ownership of the inject and do the majority of the work, then pass it off to a second person for a final review before submitting it. If the business person needed details from a technical person, they would ask the team lead and they would get the information whenever the technical people had some free time. The team lead was also responsible for writing reports follow-up reports after any of the technical people found a breach in systems, or when systems went down and when we could get them back up.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 May 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/05/10/ccdc-regionals-competiton.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/10/ccdc-regionals-competiton.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Qualifying for CCDC Regionals</title>
@@ -149,19 +170,6 @@
         <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2016/10/10/tech-summit.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/10/10/tech-summit.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>First contribution to open source</title>
-        <description>&lt;p&gt;We needed a salt file to deploy a Samba fileserver on the University of Arkansas Virtualization Team, so I worked with gravyboat on Github to contribute to and modify the existing source code to fit what my team needed.&lt;/p&gt;
-
-&lt;amp-img width=&quot;569&quot; height=&quot;306&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/saltopensource.jpg&quot;&gt;&lt;/amp-img&gt;
-</description>
-        <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/09/15/salt-opensource.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/09/15/salt-opensource.html</guid>
         
         
       </item>
