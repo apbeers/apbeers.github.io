@@ -6,66 +6,108 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jul 2018 18:08:52 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Jul 2018 18:08:52 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Jul 2018 19:32:29 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Jul 2018 19:32:29 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>My New Post</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit!&lt;/p&gt;
+        <title>Qualifying for CCDC Regionals</title>
+        <description>&lt;p&gt;Our University of Arkansas CCDC team qualified for the SWCCDC regionals competiton&lt;/p&gt;
 
-&lt;amp-img width=&quot;600&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/500/transport&quot;&gt;&lt;/amp-img&gt;
+&lt;amp-img width=&quot;800&quot; height=&quot;587&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/ccdcregionals.png&quot;&gt;&lt;/amp-img&gt;
 
-&lt;p&gt;Nulla dapibus vestibulum ligula in sodales. Phasellus eu metus quam. Sed id varius diam. Morbi pellentesque lorem vitae ex commodo, sed dapibus ex dignissim. Etiam facilisis pellentesque gravida. Sed tempus diam sed odio tempor, tristique elementum erat condimentum. Ut volutpat dui ex, a auctor dolor pretium eget.&lt;/p&gt;
+&lt;p&gt;This was the second year our team competed in the CCDC (Collegiate Cyber Defense competition). Last year we had about half a team and no practice and got roasted. This year we have the opportunity to get compete again, but in Tulsa, OK at regionals!&lt;/p&gt;
 
-&lt;p&gt;Vivamus nec mauris suscipit enim viverra tristique ut eget risus. Vestibulum ullamcorper at sem eu sodales. Praesent felis tellus, condimentum vitae purus id, consectetur interdum urna. Pellentesque laoreet non arcu volutpat euismod. Suspendisse sed enim non ex interdum sodales. Quisque vitae vestibulum turpis. Aenean nec est dolor.&lt;/p&gt;
+&lt;p&gt;Last year’s CCDC qualifier was used as a learning opportunity. We had never competed before and nobody at our university had knowledge of the types of challenges we would face. During the competition, we took notes over the types of challenges, tools we would need in the future, how the team communicated, and useful roles to recruit for next time.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Pellentesque quis mi at erat iaculis cursus. Phasellus ligula neque, pulvinar sed malesuada id, feugiat ac magna. Proin sed scelerisque metus. Pellentesque mi augue, egestas nec ante a, faucibus ullamcorper enim. Sed nisi felis, rutrum imperdiet aliquam nec, placerat vel odio. Nulla quis urna ut risus aliquam tempor.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;This year we built several labs to get everyone familiar with linux, networking, firewalls, VMWare ESXi (this was a big one), and common services like web and ftp servers. We divided our team into roles based on Linux, Windows, business injects, and one person to communicate between all of the teams. We also did a trial run, where we overloaded the team with injects and took notes over where everything broke down, and what people’s strengths and weaknesses were. Then we went to the whiteboard and came up with our roles, communication methods, steps to take when the competition starts, and how to pass tasks between teams.&lt;/p&gt;
 
-&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/transport&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;Nulla mi risus, lobortis quis lectus vel, gravida eleifend lacus. Proin mattis odio elit, nec vehicula diam varius vitae. Nunc a ipsum at justo rhoncus mattis. Proin auctor lorem quis libero viverra aliquam. Suspendisse quis tristique sapien. Integer eu felis vel orci dignissim suscipit pharetra vitae nisl. Ut viverra sed enim quis pretium. Etiam auctor a ante sed pharetra.&lt;/p&gt;
+&lt;p&gt;We would use the white board to keep track of which VMs people were working on to prevent any conflicts and properly assign new technical injects. For business injects, one person on the business inject team would take ownership of the inject and do the majority of the work, then pass it off to a second person for a final review before submitting it. If the business person needed details from a technical person, they would ask the team lead and they would get the information whenever the technical people had some free time. The team lead was also responsible for writing reports follow-up reports after any of the technical people found a breach in systems, or when systems went down and when we could get them back up.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Mar 2016 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2016/03/13/my-new-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/03/13/my-new-post.html</guid>
+        <pubDate>Tue, 13 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/03/13/ccdc-regionals.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/13/ccdc-regionals.html</guid>
         
         
       </item>
     
       <item>
-        <title>Ea eam nibh persecuti, partem habemus nominavi</title>
-        <description>&lt;p&gt;At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.&lt;/p&gt;
+        <title>Shell On The Border</title>
+        <description>&lt;p&gt;A couple of weekends ago, I got to compete at the Shell on the Border cybersecurity event hosted by fs2600. Our team placed 7th out of 21 teams by solving a wide variety of questions. It was a great learning experience and really highlighted that there is room for every skill type in security, whether it’s cracking shells, social engineerings, or writing code to solve problems quickly.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Nec amet pericula dissentiet…&lt;/p&gt;
+&lt;amp-img width=&quot;1128&quot; height=&quot;412&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/cyberhogs-lines.jpg&quot;&gt;&lt;/amp-img&gt;
 
-  &lt;p&gt;Nam liber tritani ei, urbanitas tincidunt usu et. Odio voluptua gubergren at cum. An porro mucius tibique nam, cu usu everti dignissim assueverit. Docendi patrioque constituto te sit. Qui lorem soluta ea, commune deserunt sed id. Accusam commune cotidieque his ea.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pro hinc copiosae an, ad ius salutandi expetendis. Quo suavitate intellegat forensibus an. Sonet meliore consetetur te sea, in eam decore utroque, dicat verear et sit. Pro aperiam pertinax splendide id, IUS STET ELEIFEND INTELLEGAM ID.&lt;/p&gt;
-
-&lt;amp-img width=&quot;600&quot; height=&quot;300&quot; layout=&quot;responsive&quot; src=&quot;http://lorempixel.com/600/300/people&quot;&gt;&lt;/amp-img&gt;
-
-&lt;p&gt;Ea ullamcorper intellegebat pri!&lt;/p&gt;
-
-&lt;h3 id=&quot;vix-cu-alienum-evertitur&quot;&gt;Vix cu alienum evertitur&lt;/h3&gt;
-
-&lt;p&gt;Mea suas vituperatoribus et, virtute corpora quaestio cum ut. Ne solet nostrum complectitur pri, vis ut inani populo. Ad eligendi vituperata sadipscing pro, ad mea modo meis philosophia, an eos consul impedit qualisque. Eruditi reprimique id eum, in tincidunt percipitur vis.&lt;/p&gt;
-
-&lt;amp-youtube data-videoid=&quot;lBTCB7yLs8Y&quot; layout=&quot;responsive&quot; width=&quot;480&quot; height=&quot;270&quot;&gt;&lt;/amp-youtube&gt;
-
-&lt;p&gt;Ne ius nominavi verterem. Principes voluptaria pro at. Sint mediocrem cum ea, his purto dicat scaevola ad. Per quem magna gubergren id, pri in noluisse salutatus imperdiet. In postea consequat percipitur vis, nam postea commodo lobortis an, ut atqui antiopam eloquentiam eum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Erat officiis probatus eam ea, nibh legere insolens ad sit. Nec alii dicam ad, cibo regione per no. Verear invenire ut usu, nec mazim euripidis in. Molestie placerat id quo, quo dissentias complectitur ex. Ex probatus principes efficiantur pro, possit perfecto ut eum. Vix ei summo perpetua, enim adhuc vix ei, sed in homero delicata periculis. Praesent intellegat qui ne.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;amp-img width=&quot;1128&quot; height=&quot;705&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/cyberhogs-circle.jpg&quot;&gt;&lt;/amp-img&gt;
 </description>
-        <pubDate>Tue, 08 Mar 2016 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2016/03/08/example-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/03/08/example-post.html</guid>
+        <pubDate>Wed, 21 Feb 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/02/21/shell-on-the-border.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/21/shell-on-the-border.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Razorback Transit App Now Live</title>
+        <description>&lt;p&gt;After listening to students about what they wanted out of Razorback Transit (our campus bus service), I built the razorback transit! The app intelligently caches all of the images for busses and stops to reduce network usage, decrease startup time, and stabilize performance in areas with low/spotty connectivity. Because of all of the caching, the bus locations can be updated every 5 seconds with minimal network usage (just a single JSON request). It is now live for both iPhone and Android with over 200 downloads between the two platforms.&lt;/p&gt;
+
+&lt;amp-img width=&quot;1256&quot; height=&quot;277&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-release.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Wed, 17 Jan 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/01/17/lets-wrap.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/17/lets-wrap.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Razorback Transit Firebase Analytics</title>
+        <description>&lt;p&gt;Razorback transit has been live for a couple months, and I’ve collected some anonymous data on how people use the app. There are 68 downloads on Android and 296 downloads on iOS, So nearly all downloads are active users.&lt;/p&gt;
+
+&lt;amp-img width=&quot;934&quot; height=&quot;530&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-useracount.jpg&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;The app opens to the live map by default, so if a user only uses the live map tab it won’t show up in the Tab Selected category. Parking is naturally least used.&lt;/p&gt;
+
+&lt;amp-img width=&quot;465&quot; height=&quot;171&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-tabs.jpg&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;The demographics that use Android and iOS are interesting as well. Android (left) is mostly male users (male is dark blue), with a wider age distribution. iOS (right) is more evenly distributed between gender but has a smaller age distribution. The gender and age data is handled by Google using the unique device ID that they have associated with your google account, which contains age and gender data. This is all the detail that is logged.&lt;/p&gt;
+
+&lt;amp-img width=&quot;1280&quot; height=&quot;751&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-userdemographics.jpg&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;Also, here’s the iOS device types of people using the app&lt;/p&gt;
+
+&lt;amp-img width=&quot;488&quot; height=&quot;255&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-devicemodels.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Wed, 13 Dec 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2017/12/13/razorback-transit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/13/razorback-transit.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>AR Startup Crawl App in Private Alpha</title>
+        <description>&lt;p&gt;After the startup crawl in 2017, I had a few ideas on how to improve the guest experience. I decided to make an app with the locations of startups, which beer is served where, descriptions of the companies, and a live update section so Startup Junkie can keep patrons up to date during the event. It’s just a side project, but it will be ready for 2018 and help bring Fayetteville further into the tech scene.&lt;/p&gt;
+
+&lt;p&gt;The app is powered Google Cloud Platform and Firebase for usage analytics, crash reporting, data storage, and push notifications. All data and styles in the app can be configured in real time post-deployment with Firebase Realtime Database, making it easy to do testing and quickly make changes based on what customers want.&lt;/p&gt;
+
+&lt;amp-img width=&quot;1400&quot; height=&quot;425&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/arstartupcrawl.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2017/12/11/arstartupcrawl-alpha.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/11/arstartupcrawl-alpha.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Razorback Transit App Now Live</title>
+        <description>&lt;p&gt;After listening to students about what they wanted out of Razorback Transit (our campus bus service), I built the razorback transit! The app intelligently caches all of the images for busses and stops to reduce network usage, decrease startup time, and stabilize performance in areas with low/spotty connectivity. Because of all of the caching, the bus locations can be updated every 5 seconds with minimal network usage (just a single JSON request). It is now live for both iPhone and Android with over 200 downloads between the two platforms.&lt;/p&gt;
+
+&lt;amp-img width=&quot;1024&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-release.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Wed, 09 Aug 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/08/09/razorbacktranist-release.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/09/razorbacktranist-release.html</guid>
         
         
       </item>
