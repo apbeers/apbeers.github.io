@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jul 2018 19:32:29 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Jul 2018 19:32:29 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Jul 2018 19:55:07 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Jul 2018 19:55:07 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -47,10 +47,12 @@
       </item>
     
       <item>
-        <title>Razorback Transit App Now Live</title>
-        <description>&lt;p&gt;After listening to students about what they wanted out of Razorback Transit (our campus bus service), I built the razorback transit! The app intelligently caches all of the images for busses and stops to reduce network usage, decrease startup time, and stabilize performance in areas with low/spotty connectivity. Because of all of the caching, the bus locations can be updated every 5 seconds with minimal network usage (just a single JSON request). It is now live for both iPhone and Android with over 200 downloads between the two platforms.&lt;/p&gt;
+        <title>Lets Wrap - Cross Device App Practice</title>
+        <description>&lt;p&gt;I recently updated the first app I built to, Let’s Wrap, to support iPhone X. It lets you calculate what size to cut wrapping paper for a present. I built this app in early 2016 because I wanted to work at Metova doing iOS development. I thought what better way to prove I can be an app developer than to publish an app! The biggest challenge with this app was supporting every device size. The iPhone X notch borked everything of course, I had to set custom constraints to handle the iPad vs iPhone, and extra code to handle how the app responds to the keyboard on iPad Pro 12.9 inch.&lt;/p&gt;
 
-&lt;amp-img width=&quot;1256&quot; height=&quot;277&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-release.jpg&quot;&gt;&lt;/amp-img&gt;
+&lt;p&gt;Oh, it also had a spike in US downloads on December 24th. Way to go guys.&lt;/p&gt;
+
+&lt;amp-img width=&quot;1256&quot; height=&quot;277&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/letswrap.jpg&quot;&gt;&lt;/amp-img&gt;
 </description>
         <pubDate>Wed, 17 Jan 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2018/01/17/lets-wrap.html</link>
@@ -100,6 +102,19 @@
       </item>
     
       <item>
+        <title>CompTIA Secuirty+ Certified</title>
+        <description>&lt;p&gt;I just passed my CompTIA Security+ certification yesterday! It took a lot of reading and lynda.com videos, but it was worth it. It was a good foundation for vocabulary and common techniques used in cybersecurity.&lt;/p&gt;
+
+&lt;amp-img width=&quot;1500&quot; height=&quot;1156&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/comptia.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Thu, 09 Nov 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2017/11/09/comptia.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/09/comptia.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Razorback Transit App Now Live</title>
         <description>&lt;p&gt;After listening to students about what they wanted out of Razorback Transit (our campus bus service), I built the razorback transit! The app intelligently caches all of the images for busses and stops to reduce network usage, decrease startup time, and stabilize performance in areas with low/spotty connectivity. Because of all of the caching, the bus locations can be updated every 5 seconds with minimal network usage (just a single JSON request). It is now live for both iPhone and Android with over 200 downloads between the two platforms.&lt;/p&gt;
 
@@ -108,6 +123,45 @@
         <pubDate>Wed, 09 Aug 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2017/08/09/razorbacktranist-release.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/09/razorbacktranist-release.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Arkansec 16 First Place Team</title>
+        <description>&lt;p&gt;This Saturday, 10/21/16, a few of our U of A ACM members went to the ArkanSec16 hackathon to test our skills. We attended a 3 hour intro session about Kali Linux and various penetration testing tools. The competition was hosted using the open source Facebook CTF framework with custom questions and hacking challenges. Our team will be going back next year to see if we can keep it up!&lt;/p&gt;
+
+&lt;amp-img width=&quot;960&quot; height=&quot;302&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/arkansec.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Fri, 21 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/10/21/arkansec.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/21/arkansec.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Attended the NWA Tech Summit</title>
+        <description>&lt;p&gt;Thanks to ACM, I had the opportunity to attend the 2016 NWA Tech summit. I got to hear from some great speakers and see what new technology is disrupting the industry (check out “Digimarc”, it’s awesome) as well as catch up with a few people from Walmart Security.&lt;/p&gt;
+
+&lt;amp-img width=&quot;1280&quot; height=&quot;674&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/techsummit.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/10/10/tech-summit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/10/tech-summit.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First contribution to open source</title>
+        <description>&lt;p&gt;We needed a salt file to deploy a Samba fileserver on the University of Arkansas Virtualization Team, so I worked with gravyboat on Github to contribute to and modify the existing source code to fit what my team needed.&lt;/p&gt;
+
+&lt;amp-img width=&quot;569&quot; height=&quot;306&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/saltopensource.jpg&quot;&gt;&lt;/amp-img&gt;
+</description>
+        <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/09/15/salt-opensource.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/09/15/salt-opensource.html</guid>
         
         
       </item>
