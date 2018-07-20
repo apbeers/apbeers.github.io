@@ -3,14 +3,10 @@ layout: post
 title: Competing at CCDC Regionals
 ---
 
-Our University of Arkansas CCDC team qualified for the SWCCDC regionals competiton
+Competing at CCDC Regionals
 
-<amp-img width="800" height="587" layout="responsive" src="/assets/images/ccdcregionals.png"></amp-img>
+Our University of Arkansas team got a lot of experience competing at CCDC regionals. For a lot of the team members, this was there first time in a high-pressure environment dealing with real-world technology.
 
-This was the second year our team competed in the CCDC (Collegiate Cyber Defense competition). Last year we had about half a team and no practice and got roasted. This year we have the opportunity to get compete again, but in Tulsa, OK at regionals!
+The competition was two 10-hour days where the Walmart read team, a team of professional good-guy hackers, would try to break into our systems and we had to keep them out. There were no breaks, and the competition was designed to generate as much stress as possible in the short amount of time allotted. This was done by having misconfigured systems, people walking into the room to make other requests that had to be done quickly, and a CEO that would come and yell at use when things weren't online.
 
-Last year's CCDC qualifier was used as a learning opportunity. We had never competed before and nobody at our university had knowledge of the types of challenges we would face. During the competition, we took notes over the types of challenges, tools we would need in the future, how the team communicated, and useful roles to recruit for next time.
-
-This year we built several labs to get everyone familiar with linux, networking, firewalls, VMWare ESXi (this was a big one), and common services like web and ftp servers. We divided our team into roles based on Linux, Windows, business injects, and one person to communicate between all of the teams. We also did a trial run, where we overloaded the team with injects and took notes over where everything broke down, and what people's strengths and weaknesses were. Then we went to the whiteboard and came up with our roles, communication methods, steps to take when the competition starts, and how to pass tasks between teams.
-
-We would use the white board to keep track of which VMs people were working on to prevent any conflicts and properly assign new technical injects. For business injects, one person on the business inject team would take ownership of the inject and do the majority of the work, then pass it off to a second person for a final review before submitting it. If the business person needed details from a technical person, they would ask the team lead and they would get the information whenever the technical people had some free time. The team lead was also responsible for writing reports follow-up reports after any of the technical people found a breach in systems, or when systems went down and when we could get them back up.
+The competition served as a great learning experience for everyone because they had to learn new technologies in an unfamiliar environment under a time constraint. We had people on our team that new each platform (Windows, Linux, Mac, Firewalls, and VMWare ESXi) and put their skills to use. I would recommend anyone interested in security to join a team and compete because it provides a great starting point for technologies and skills to learn in preparation of the real world.
