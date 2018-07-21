@@ -23,7 +23,7 @@ twitter_username: apbeers
 github_username:  apbeers
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-122705547-1"
 
 # Build settings
 markdown: kramdown
