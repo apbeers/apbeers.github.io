@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Jul 2018 08:57:47 -0500</pubDate>
-    <lastBuildDate>Sat, 21 Jul 2018 08:57:47 -0500</lastBuildDate>
+    <pubDate>Sun, 29 Jul 2018 11:43:38 -0500</pubDate>
+    <lastBuildDate>Sun, 29 Jul 2018 11:43:38 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -37,7 +37,7 @@
 
 &lt;p&gt;Last year’s CCDC qualifier was used as a learning opportunity. We had never competed before and nobody at our university had knowledge of the types of challenges we would face. During the competition, we took notes over the types of challenges, tools we would need in the future, how the team communicated, and useful roles to recruit for next time.&lt;/p&gt;
 
-&lt;p&gt;This year we built several labs to get everyone familiar with linux, networking, firewalls, VMWare ESXi (this was a big one), and common services like web and ftp servers. We divided our team into roles based on Linux, Windows, business injects, and one person to communicate between all of the teams. We also did a trial run, where we overloaded the team with injects and took notes over where everything broke down, and what people’s strengths and weaknesses were. Then we went to the whiteboard and came up with our roles, communication methods, steps to take when the competition starts, and how to pass tasks between teams.&lt;/p&gt;
+&lt;p&gt;This year we built several labs to get everyone familiar with Linux, networking, firewalls, VMWare ESXi (this was a big one), and common services like web and ftp servers. We divided our team into roles based on Linux, Windows, business injects, and one person to communicate between all of the teams. We also did a trial run, where we overloaded the team with injects and took notes over where everything broke down, and what people’s strengths and weaknesses were. Then we went to the whiteboard and came up with our roles, communication methods, steps to take when the competition starts, and how to pass tasks between teams.&lt;/p&gt;
 
 &lt;p&gt;We would use the white board to keep track of which VMs people were working on to prevent any conflicts and properly assign new technical injects. For business injects, one person on the business inject team would take ownership of the inject and do the majority of the work, then pass it off to a second person for a final review before submitting it. If the business person needed details from a technical person, they would ask the team lead and they would get the information whenever the technical people had some free time. The team lead was also responsible for writing reports follow-up reports after any of the technical people found a breach in systems, or when systems went down and when we could get them back up.&lt;/p&gt;
 </description>
@@ -50,7 +50,7 @@
     
       <item>
         <title>Shell On The Border</title>
-        <description>&lt;p&gt;A couple of weekends ago, I got to compete at the Shell on the Border cybersecurity event hosted by fs2600. Our team placed 7th out of 21 teams by solving a wide variety of questions. It was a great learning experience and really highlighted that there is room for every skill type in security, whether it’s cracking shells, social engineerings, or writing code to solve problems quickly.&lt;/p&gt;
+        <description>&lt;p&gt;A couple of weekends ago, I got to compete at the Shell on the Border cybersecurity event hosted by fs2600. Our team placed 7th out of 21 teams by solving a wide variety of questions. It was a great learning experience and really highlighted that there is room for every skill type in security, whether it’s cracking shells, social engineering, or writing code to solve problems quickly.&lt;/p&gt;
 
 &lt;amp-img width=&quot;1128&quot; height=&quot;412&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/cyberhogs-lines.jpg&quot;&gt;&lt;/amp-img&gt;
 
@@ -65,7 +65,13 @@
     
       <item>
         <title>Lets Wrap - Cross Device App Practice</title>
-        <description>&lt;p&gt;I recently updated the first app I built to, Let’s Wrap, to support iPhone X. It lets you calculate what size to cut wrapping paper for a present. I built this app in early 2016 because I wanted to work at Metova doing iOS development. I thought what better way to prove I can be an app developer than to publish an app! The biggest challenge with this app was supporting every device size. The iPhone X notch borked everything of course, I had to set custom constraints to handle the iPad vs iPhone, and extra code to handle how the app responds to the keyboard on iPad Pro 12.9 inch.&lt;/p&gt;
+        <description>&lt;p&gt;Building an app that works across all iOS devices&lt;/p&gt;
+
+&lt;amp-img width=&quot;744&quot; height=&quot;400&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/letswrap-screensizes.jpg&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;I recently updated the first app I built to, Let’s Wrap, to support iPhone X. It lets you calculate what size to cut wrapping paper for a present. I built this app in early 2016 because I wanted to work at Metova doing iOS development. I thought what better way to prove I can be an app developer than to publish an app! The biggest challenge with this app was supporting every device size. The iPhone X notch broke everything of course, I had to set custom constraints to handle the iPad vs iPhone, and extra code to handle how the app responds to the keyboard on iPad Pro 12.9 inch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/lets-wrap-gift-calculator/id1107313365?mt=8&quot;&gt;iOS: Let’s Wrap - Gift Calculator&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Oh, it also had a spike in US downloads on December 24th. Way to go guys.&lt;/p&gt;
 
@@ -80,7 +86,7 @@
     
       <item>
         <title>Razorback Transit Firebase Analytics</title>
-        <description>&lt;p&gt;Razorback transit has been live for a couple months, and I’ve collected some anonymous data on how people use the app. There are 68 downloads on Android and 296 downloads on iOS, So nearly all downloads are active users.&lt;/p&gt;
+        <description>&lt;p&gt;Razorback transit has been live for a couple months, and I’ve collected some anonymous data on how people use the app. There are 68 downloads on Android and 296 downloads on iOS as of December 2017, so nearly all downloads are active users.&lt;/p&gt;
 
 &lt;amp-img width=&quot;934&quot; height=&quot;530&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-useracount.jpg&quot;&gt;&lt;/amp-img&gt;
 
@@ -88,7 +94,7 @@
 
 &lt;amp-img width=&quot;465&quot; height=&quot;171&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-tabs.jpg&quot;&gt;&lt;/amp-img&gt;
 
-&lt;p&gt;The demographics that use Android and iOS are interesting as well. Android (left) is mostly male users (male is dark blue), with a wider age distribution. iOS (right) is more evenly distributed between gender but has a smaller age distribution. The gender and age data is handled by Google using the unique device ID that they have associated with your google account, which contains age and gender data. This is all the detail that is logged.&lt;/p&gt;
+&lt;p&gt;The demographics that use Android and iOS are interesting as well. Android (left) is mostly male users (male is dark blue), with a wider age distribution. iOS (right) is more evenly distributed between gender but has a smaller age distribution. The gender and age data are handled by Google using the unique device ID that they have associated with your google account, which contains age and gender data. This is all the detail that is logged.&lt;/p&gt;
 
 &lt;amp-img width=&quot;1280&quot; height=&quot;751&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-userdemographics.jpg&quot;&gt;&lt;/amp-img&gt;
 
@@ -119,8 +125,32 @@
       </item>
     
       <item>
+        <title>iOS Developer Intern at Metova</title>
+        <description>&lt;p&gt;When I arrived at Metova they gave me a blank laptop and told me that my job was to be useful. This turned out to be an amazing opportunity because I got to learn more development practices, come up with new features for customer apps, and fix tools to help the team work faster. Anything was in my job description, so each week was new.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Write unit tests for code&lt;/li&gt;
+  &lt;li&gt;Get my ego kept in check via code reviews&lt;/li&gt;
+  &lt;li&gt;Implement bug fixes for our app using Jira and GitHub pull requests&lt;/li&gt;
+  &lt;li&gt;Use Jenkins for continuous integration testing&lt;/li&gt;
+  &lt;li&gt;Triage bugs reported by customers and decide if there is enough substance to assign it to a developer&lt;/li&gt;
+  &lt;li&gt;Re-design office Wi-Fi network with correct channels and controller configuration&lt;/li&gt;
+  &lt;li&gt;Recruit 2 new interns for the Fayetteville office&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 14 Nov 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2017/11/14/metova.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/14/metova.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>CompTIA Secuirty+ Certified</title>
-        <description>&lt;p&gt;I just passed my CompTIA Security+ certification yesterday! It took a lot of reading and lynda.com videos, but it was worth it. It was a good foundation for vocabulary and common techniques used in cybersecurity.&lt;/p&gt;
+        <description>&lt;p&gt;I just passed my CompTIA Security+ certification yesterday! It took a lot of reading and lynda.com videos, but it was worth it. It was a good foundation for vocabulary and common techniques used in cybersecurity that have been helpful since starting at Walmart as an Intrusion Analyst.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://certification.comptia.org/certifications/security&quot;&gt;https://certification.comptia.org/certifications/security&lt;/a&gt;&lt;/p&gt;
 
 &lt;amp-img width=&quot;1500&quot; height=&quot;1156&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/comptia.jpg&quot;&gt;&lt;/amp-img&gt;
 </description>
@@ -132,40 +162,41 @@
       </item>
     
       <item>
+        <title>Dynamic Defense Engineer Intern at Walmart</title>
+        <description>&lt;p&gt;My role with this team was to build tools and support the security analysts. The team was made up of very capable people from different background and tech fields who were eager to teach and challenge me every day.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Member of Security Ambassadors Program&lt;/li&gt;
+  &lt;li&gt;Host financial class for new coworkers and other interns to discuss steps for financial independence&lt;/li&gt;
+  &lt;li&gt;Integrate MaxMind IP location database into internal search tool and ELK Stack using python&lt;/li&gt;
+  &lt;li&gt;Verify and Integrate local IPAM CSV data into search tool&lt;/li&gt;
+  &lt;li&gt;Create web tool to add devices to monitoring lists that will create alerts in HP ArcSight&lt;/li&gt;
+  &lt;li&gt;Speak at Walmart TAP to high school students about careers in technology and listen to what they expect out of Walmart&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/08/14/wmtdde.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/14/wmtdde.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Razorback Transit App Now Live</title>
-        <description>&lt;p&gt;After listening to students about what they wanted out of Razorback Transit (our campus bus service), I built the razorback transit! The app intelligently caches all of the images for busses and stops to reduce network usage, decrease startup time, and stabilize performance in areas with low/spotty connectivity. Because of all of the caching, the bus locations can be updated every 5 seconds with minimal network usage (just a single JSON request). It is now live for both iPhone and Android with over 200 downloads between the two platforms.&lt;/p&gt;
+        <description>&lt;p&gt;After listening to students about what they wanted out of Razorback Transit (our campus bus service), I built the razorback transit! The app intelligently caches all of the images for busses and stops to reduce network usage, decrease startup time, and stabilize performance in areas with low/spotty connectivity. Because of all of the caching, the bus locations can be updated every 5 seconds with minimal network usage (just a single JSON request). It is now live for both iPhone and Android with over 1500 downloads (July 2018) between the two platforms.&lt;/p&gt;
+
+&lt;p&gt;Download it here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/razorback-transit-live-maps/id1286547241?mt=8&quot;&gt;iOS: https://itunes.apple.com/us/app/razorback-transit-live-maps/id1286547241?mt=8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=razorbacktransit.arcu.razorbacktransit&quot;&gt;Android: https://play.google.com/store/apps/details?id=razorbacktransit.arcu.razorbacktransit&lt;/a&gt;&lt;/p&gt;
 
 &lt;amp-img width=&quot;1024&quot; height=&quot;500&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/razorbacktransit-release.jpg&quot;&gt;&lt;/amp-img&gt;
 </description>
         <pubDate>Wed, 09 Aug 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2017/08/09/razorbacktranist-release.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/09/razorbacktranist-release.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Arkansec 16 First Place Team</title>
-        <description>&lt;p&gt;This Saturday, 10/21/16, a few of our U of A ACM members went to the ArkanSec16 hackathon to test our skills. We attended a 3 hour intro session about Kali Linux and various penetration testing tools. The competition was hosted using the open source Facebook CTF framework with custom questions and hacking challenges. Our team will be going back next year to see if we can keep it up!&lt;/p&gt;
-
-&lt;amp-img width=&quot;960&quot; height=&quot;302&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/arkansec.jpg&quot;&gt;&lt;/amp-img&gt;
-</description>
-        <pubDate>Fri, 21 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/10/21/arkansec.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/21/arkansec.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Attended the NWA Tech Summit</title>
-        <description>&lt;p&gt;Thanks to ACM, I had the opportunity to attend the 2016 NWA Tech summit. I got to hear from some great speakers and see what new technology is disrupting the industry (check out “Digimarc”, it’s awesome) as well as catch up with a few people from Walmart Security.&lt;/p&gt;
-
-&lt;amp-img width=&quot;1280&quot; height=&quot;674&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/techsummit.jpg&quot;&gt;&lt;/amp-img&gt;
-</description>
-        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/10/10/tech-summit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/10/tech-summit.html</guid>
         
         
       </item>
