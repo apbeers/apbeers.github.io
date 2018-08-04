@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Andrew Beers and I work at Walmart as an Intrusion Analyst in CyberSecurity. I've worked on multiple mobile apps and internet with multiple teams at places such as the U of A, Walmart, Metova, B+T Group, and Metova.
+My name is Andrew Beers and I work at Walmart as an Intrusion Analyst in CyberSecurity. I've worked on multiple mobile apps and interned with multiple teams at places such as the U of A, Walmart, Metova, B+T Group, and Metova.
 
 Connect with me on LinkedIn at [https://www.linkedin.com/in/apbeers/](https://www.linkedin.com/in/apbeers/)
 
