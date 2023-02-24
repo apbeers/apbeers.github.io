@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Andrew Beers and I work at Walmart as an Intrusion Analyst in CyberSecurity. I've worked on multiple mobile apps and interned with multiple teams at places such as the U of A, Walmart, Metova, and B+T Group.
 
-Connect with me on LinkedIn at [https://www.linkedin.com/in/apbeers/](https://www.linkedin.com/in/apbeers/)
+Connect with me on LinkedIn at [[https://www.linkedin.com/in/apbeers/](https://www.linkedin.com/in/andrewbeers2/)]([https://www.linkedin.com/in/apbeers/](https://www.linkedin.com/in/andrewbeers2/))
 
 ### Razorback Transit - Live Maps
 
